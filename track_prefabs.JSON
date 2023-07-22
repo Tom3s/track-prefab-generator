@@ -1,0 +1,60 @@
+[
+	{
+		"type": "straight",
+		"elevation": 0,
+		"tilt_start": 0,
+		"tilt_end": 0,
+		"slope_start": 0,
+		"slope_end": 0
+	},
+	{
+		"type": "straight",
+		"elevation": 0,
+		"tilt_start": 0,
+		"tilt_end": 30,
+		"slope_start": 0,
+		"slope_end": 0
+	},
+	{
+		"type": "straight",
+		"elevation": 0,
+		"tilt_start": -30,
+		"tilt_end": 30,
+		"slope_start": 0,
+		"slope_end": 0
+	},
+	{
+		"type": "straight",
+		"elevation": 0,
+		"tilt_start": 0,
+		"tilt_end": -30,
+		"slope_start": 0,
+		"slope_end": 0
+	},
+	{
+		"type": "straight",
+		"elevation": 1,
+		"tilt_start": 0,
+		"tilt_end": 0,
+		"slope_start": 0,
+		"slope_end": 0
+	},
+	{
+		"type": "straight",
+		"elevation": 3,
+		"tilt_start": 0,
+		"tilt_end": 30,
+		"slope_start": 0,
+		"slope_end": 0
+	},
+	{
+		"type": "curve",
+		"elevation": 0,
+		"tilt_start": 0,
+		"tilt_end": 0,
+		"slope_start": 0,
+		"slope_end": 0,
+		"forward": 1,
+		"sideways": 1
+	}
+]
